@@ -1,0 +1,10 @@
+D:\Visual studio\DiningPhilosophers\DiningPhilosophers\bin\Debug\DiningPhilosophers.exe.config
+D:\Visual studio\DiningPhilosophers\DiningPhilosophers\bin\Debug\DiningPhilosophers.exe
+D:\Visual studio\DiningPhilosophers\DiningPhilosophers\bin\Debug\DiningPhilosophers.pdb
+D:\Visual studio\DiningPhilosophers\DiningPhilosophers\obj\Debug\DiningPhilosophers.csproj.AssemblyReference.cache
+D:\Visual studio\DiningPhilosophers\DiningPhilosophers\obj\Debug\DiningPhilosophers.Form1.resources
+D:\Visual studio\DiningPhilosophers\DiningPhilosophers\obj\Debug\DiningPhilosophers.Properties.Resources.resources
+D:\Visual studio\DiningPhilosophers\DiningPhilosophers\obj\Debug\DiningPhilosophers.csproj.GenerateResource.cache
+D:\Visual studio\DiningPhilosophers\DiningPhilosophers\obj\Debug\DiningPhilosophers.csproj.CoreCompileInputs.cache
+D:\Visual studio\DiningPhilosophers\DiningPhilosophers\obj\Debug\DiningPhilosophers.exe
+D:\Visual studio\DiningPhilosophers\DiningPhilosophers\obj\Debug\DiningPhilosophers.pdb
